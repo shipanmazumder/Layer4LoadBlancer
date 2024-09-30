@@ -2,6 +2,10 @@
 
 This project demonstrates how to set up layer 4 load balancing for Node.js servers using Nginx. We'll create a simple Node.js application and configure Nginx to distribute incoming traffic across multiple Node.js servers.
 
+### Diagram
+
+![Diagram](./NgixnL4LoadBlance.png)
+
 ### Prerequisites
 
 - Node.js
