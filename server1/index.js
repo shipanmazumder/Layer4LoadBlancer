@@ -8,7 +8,7 @@ const port = 3001;
 const dbConfig = {
     host: 'localhost',
     user: 'my_user',
-    port: 3308,
+    port: 3306,
     password: 'my_password',
     database: 'my_db'
 };
