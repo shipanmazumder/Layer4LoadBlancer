@@ -48,7 +48,7 @@ This project demonstrates how to set up layer 4 load balancing for Node.js serve
    npm install express body-parser
    ```
 
-   Create a new file called `server.js` and add the following code:
+   Create a new file called `index.js` and add the following code:
 
    ```javascript
    const express = require("express");
